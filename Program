@@ -8,6 +8,9 @@ int main()
   
   if(number>0)
   { 
-    cout<<"You enetered a positive integer==>"<<number<<endl;
+    cout<<"You entered a positive integer==>"<<number<<endl;
   }
+  else
+  {
+  cout<<"You entered a negative number==>"<<number;
   return 0;
